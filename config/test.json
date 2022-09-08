@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "hellodk",
+  "db": "mongodb://localhost/bloging_tests"
+}
